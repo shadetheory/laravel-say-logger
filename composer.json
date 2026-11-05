@@ -1,6 +1,7 @@
 {
     "name": "jordanpartridge/laravel-say-logger",
     "description": "A Laravel package that speaks your log messages using macOS text-to-speech with different voices for different log levels",
+    "homepage": "https://github.com/shadetheory/laravel-say-logger",
     "type": "library",
     "license": "MIT",
     "keywords": ["laravel", "logging", "text-to-speech", "macos", "say", "audio", "debugging"],
